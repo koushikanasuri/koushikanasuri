@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koushikanasuri
-- 👀 I’m interested in Full stack web Development , Solving DSA problems on leetcode.
+- 👀 I’m interested in Solving DSA problems on leetcode.
 - 🌱 I’m currently learning Machine Learning with Artificial Intelligence.
 - 💞️ I’m looking to collaborate on any work where I can contribute to the project and the team while learning and improving myself.
 - 📫 How to reach me Mobile:9347953730  Gmail:koushikanasuri16@gmail.com
